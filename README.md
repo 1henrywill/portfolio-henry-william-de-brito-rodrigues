@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=F472B6)](https://www.linkedin.com/in/henry-rodrigues-56274b2b3/) [![E-mail](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:henrywilliamr20@gmail.com) [![Currículo](https://img.shields.io/badge/Currículo-18181B?style=for-the-badge&logo=read-the-docs&logoColor=F472B6)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=F472B6)](https://www.linkedin.com/in/henry-rodrigues-56274b2b3/) [![E-mail](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=F472B6)](mailto:henrywilliamr20@gmail.com) [![Currículo](https://img.shields.io/badge/Currículo-18181B?style=for-the-badge&logo=read-the-docs&logoColor=F472B6)](https://drive.google.com/file/d/1J3zLuAKyQohs3EhiGHXUfgK_OtB4oOIM/view?usp=sharing)
  
 ---
  
@@ -49,6 +49,7 @@ Atualmente cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na 
 | **Laboratório de Classificação Visual** | Experimentos práticos de visão computacional focados em testar a capacidade de IAs para classificar e identificar padrões em conjuntos de imagens. | [Ver Projeto](https://github.com/1henrywill/portfolio-henry-william-de-brito-rodrigues/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-laboratorio-de-classificacao-visual) |
 | **Engenharia de Software e IA com Bubble.io** | Exploração da integração de Inteligência Artificial com a plataforma no-code Bubble.io para o desenvolvimento ágil de soluções de software. | [Ver Projeto](https://github.com/1henrywill/portfolio-henry-william-de-brito-rodrigues/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-engenharia-de-software-e-ia-com-bubble-io) |
 | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Criação de uma aplicação de videoconferência integrando a API robusta do Jitsi com recursos avançados da Manus AI para aprimorar a interação. | [Ver Projeto](https://github.com/1henrywill/portfolio-henry-william-de-brito-rodrigues/tree/main/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/projeto-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi) |
+| **Composição Musical Assistida por Inteligência Artificial** | Produção de EP com 5 faixas inéditas geradas via Gemini Gems (RAG) e Suno AI, com referência estilística em Linkin Park. | [Ver Projeto](https://github.com/1henrywill/portfolio-henry-william-de-brito-rodrigues/tree/main/projeto-composicao-musical-assistida-por-ia) |
 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
